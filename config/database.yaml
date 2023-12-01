@@ -1,0 +1,4 @@
+oracle:
+  user: naon
+  password: password
+  port: 1521
